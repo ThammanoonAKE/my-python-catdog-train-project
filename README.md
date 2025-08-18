@@ -25,7 +25,7 @@
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/my-python-catdog-train-project.git
+git clone https://github.com/ThammanoonAKE/my-python-catdog-train-project.git
 cd my-python-catdog-train-project
 ```
 
